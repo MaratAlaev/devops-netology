@@ -11,3 +11,4 @@ test
 crash.log - игнорирует файл crash.log
 crash.*.log - инорирует все файлы crash у которых перед расширением указано что-то еще
 
+checkout main PyCharm
